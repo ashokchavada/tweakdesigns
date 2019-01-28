@@ -429,7 +429,7 @@ h1, h2, h3, h4, h5, p{
         padding: 110px 0 110px 0;
     }
     .portfolio_item {
-        height: 400px;
+        height: 300px;
     }
     .footer_tweakdesigns {
         margin: 80px 0 30px 0;
@@ -458,5 +458,8 @@ h1, h2, h3, h4, h5, p{
     }
     .hero .mail_btn {
         display: none;
+    }
+    .tweakdesigns_services .usp {
+        text-align: center;
     }
 }
